@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project consumes an API named OMDb API. 
+The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by their users. 
+
+To know more about this API, visit: https://www.omdbapi.com/
 
 ## Available Scripts
 
