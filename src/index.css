@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.supermain {
+  height: 100vh;
+  background-color: #bde0fe;
+}
+.main {
+  background-color: #bde0fe;
+}
+
+.cardShadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #fdf0d5
+}
